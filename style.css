@@ -135,17 +135,9 @@ body
 
 
 /* Navigation About Us */
-.navbaraboutus
-{
-    
-    color: #ffffffda;
-    text-decoration: none;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding-right: 1em;
-      
-}
 
-.navbaraboutus:hover
+
+.navbarmission:hover
 {
     color: #eee0b1da;
     text-decoration: none;
@@ -155,20 +147,6 @@ body
     
 }
 
-.navbarcitaion
-{
-    
-    color: #ffffffda;
-    text-decoration: none;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding-right: 1em;
-    
-
-    animation: scale 200ms ease-in;
-    animation-fill-mode: forwards;
-
-    
-}
 
 .navbarmission
 {
