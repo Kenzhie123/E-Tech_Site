@@ -77,7 +77,7 @@ body
     text-decoration: none;
     color:#eee0b1da;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
-    font-size: 25px;
+    
 
     padding: 0px;
 
@@ -104,7 +104,7 @@ body
 
     padding: 2em;
     margin-top: 8em;
-    font-size: 35px;
+    font-size: 24px;
 
     text-align: center;
     color: #ffffff;
@@ -131,12 +131,7 @@ body
     text-decoration: none;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-right: 1em;
-    
-    font-size: 20px;
-    
-   
-
-    
+      
 }
 
 .navbaraboutus:hover
@@ -145,7 +140,7 @@ body
     text-decoration: none;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-right: 1em;
-    font-size: 20px;
+    
     
 }
 
@@ -156,8 +151,7 @@ body
     text-decoration: none;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-right: 1em;
-    font-size: 20px;
-  
+    
 
     animation: scale 200ms ease-in;
     animation-fill-mode: forwards;
@@ -171,7 +165,7 @@ body
     text-decoration: none;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-right: 1em;
-    font-size: 20px;
+  
 
     animation: scale 200ms ease-in;
     animation-fill-mode: forwards;
@@ -232,9 +226,6 @@ body
     color: #ffffff;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     box-shadow: 0px 0px 15px gray;
-
-
-    
     padding:1rem;
 }
 
